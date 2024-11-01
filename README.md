@@ -1,6 +1,8 @@
+<div style="display: flex; gap: 10px;">
   <a href="https://github.com/LuizPhelipeRodrigues/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuizPhelipeRodrigues&bg_color=00000000&text_color=FFFFFF&theme=buefy" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuizPhelipeRodrigues&text_color=FFFFFF&title_color=FFFFFF&theme=transparent" />
   </a>
   <a href="https://github.com/LuizPhelipeRodrigues/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPhelipeRodrigues&bg_color=00000000&text_color=FFFFFF&theme=buefy" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPhelipeRodrigues&text_color=FFFFFF&title_color=FFFFFF&theme=transparent" />
   </a>
+</div>
